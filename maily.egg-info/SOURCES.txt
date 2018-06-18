@@ -1,0 +1,5 @@
+setup.py
+maily.egg-info/PKG-INFO
+maily.egg-info/SOURCES.txt
+maily.egg-info/dependency_links.txt
+maily.egg-info/top_level.txt

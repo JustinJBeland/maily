@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: maily
+Version: 1.0.0
+Summary: automated e mail notification
+Home-page: UNKNOWN
+Author: Justin Beland
+Author-email: jbeland151@gmail.com
+License: None
+Description: UNKNOWN
+Keywords: mail automated fun useful
+Platform: UNKNOWN
+Classifier: Natural Language :: English
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
