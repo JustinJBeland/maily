@@ -11,10 +11,10 @@ http://naelshiab.com/tutorial-send-email-python/
 	2. email -- put version here
 
 ## Installation
-you can add bo.py to your path by entering the following command
+You can add maily.py to your path by entering the following command
 
 ```
-python setup.py develop
+>>> python setup.py develop
 ```
 
 If the setup is successful the you can try to import bo bo from another directory using the following command
@@ -24,7 +24,7 @@ If the setup is successful the you can try to import bo bo from another director
 ```
 
 ## ToDo
-	1. Send attachments (i.e. generated figures)
+	1. Send attachments (i.e. figures generated)
 	2. Send flag messages
 	3. Somehow send an email even if the code crashes indicating the crash and error message
 	4. fix python setup.py install (python setup.py develop works)
